@@ -301,6 +301,11 @@ CSS
     border-width: 30px;
     border-color: rgb(24, 26, 27);
 }
+._3hx- ._6vu5 ._5w-5 {
+    border-bottom-color: rgb(51, 51, 51);
+    border-top-color: rgb(51, 51, 51);
+    border-color: transparent;
+}
 
 ================================
 
